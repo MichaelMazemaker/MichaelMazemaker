@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-There's not much to say about me. One thing I can do is freehand-draw mazes of various different styles and disigns.
+There's not much to say about me. One thing I can do is freehand-draw mazes of various different styles and designs.
 I'm currenty pursuing a mechanical engineering degree. I'm interested in learning about different types of mechanics and how smaller components of machinery work together.
 I'm not working on much of anything big right now other than school work. I used to work on many different big projects, mostly crafty-like projects. I would try to build mechanically functioning dispensers out of cardboard and duct tape, and then I made a few mechanical candy machines out of legos, and then I started playing Minecraft and made a bunch of complicated contraptions out the game's "electrical" content (It's called redstone in the game.), which like the previous things involved lots of problem-solving. I've always like puzzle-based things.
 <!--
